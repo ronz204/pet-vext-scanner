@@ -1,3 +1,3 @@
-module github.com/ronz204/pet-vext-scanner
+module vext
 
 go 1.25.4
