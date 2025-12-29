@@ -1,7 +1,7 @@
 package main
 
-import "vext/source/playground"
+import "vext/internal/demos"
 
 func main() {
-	playground.RunGroups()
+	demos.RunGroups()
 }
