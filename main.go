@@ -1,6 +1,6 @@
 package main
 
-import "vext/internal/demos"
+import "vext/source/demos"
 
 func main() {
 	demos.RunGroups()
