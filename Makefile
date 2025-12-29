@@ -11,7 +11,7 @@ endif
 
 # Build the project
 build:
-	$(GO) build -o $(BINARY) $(MAIN)
+	$(GO) build
 
 # Run the project
 run: build
