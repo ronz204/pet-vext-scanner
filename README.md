@@ -1,1 +1,1 @@
-### PET Vext Scanner
+### PET Vext Suite
